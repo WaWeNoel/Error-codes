@@ -1,0 +1,15 @@
+404         Page not found!
+101         System Error!
+010         Network Error!
+1101        Firewall/Antivirus Error!
+11001       Firewall/Antivirus inactive!
+0x00010     Boot error!
+01011       You are not the owner!
+0x01DnU     U got hacked by NOEL!
+1002        you do not have enough permission to use it!
+01          U got rickrooled!
+07734       We could not send the message!(to be processed)
+01x001101   The application cannot be launched!
+0x01D       U got hacked!
+0210        The file cannot be started/used/found!
+5849        Account Error!
